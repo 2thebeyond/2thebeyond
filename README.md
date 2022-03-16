@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
