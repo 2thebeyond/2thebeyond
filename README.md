@@ -6,7 +6,7 @@
 
 - 💬 Ask me about ...
 
-<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>
+<a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-F7DF1E?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 <!--
 **jynmeme/jynmeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
